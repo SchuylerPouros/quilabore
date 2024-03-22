@@ -1,0 +1,41 @@
+{
+  "name": "quilabore",
+  "description": "Wallet address validator for Bitcoin and other Altcoins.",
+  "keywords": [
+    "bitcoin",
+    "cupiditate",
+    "dogecoin",
+    "altcoin",
+    "address",
+    "eveniet",
+    "culpa",
+    "possimus",
+    "browser",
+    "eos"
+  ],
+  "version": "1.0.0",
+  "author": "DudleyProhaska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchuylerPouros/quilabore.git"
+  },
+  "main": "src/wallet_address_validator",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "jssha": "1.6.0"
+  },
+  "devDependencies": {
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-mocha": "latest",
+    "grunt-simple-mocha": "latest",
+    "mocha": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/SchuylerPouros/quilabore.git/issues"
+  }
+}
